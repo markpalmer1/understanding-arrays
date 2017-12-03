@@ -1,0 +1,7 @@
+C:\Users\markp\source\repos\understanding arrays\understanding arrays\bin\Debug\understanding arrays.exe.config
+C:\Users\markp\source\repos\understanding arrays\understanding arrays\bin\Debug\understanding arrays.exe
+C:\Users\markp\source\repos\understanding arrays\understanding arrays\bin\Debug\understanding arrays.pdb
+C:\Users\markp\source\repos\understanding arrays\understanding arrays\obj\Debug\understanding arrays.csprojResolveAssemblyReference.cache
+C:\Users\markp\source\repos\understanding arrays\understanding arrays\obj\Debug\understanding arrays.csproj.CoreCompileInputs.cache
+C:\Users\markp\source\repos\understanding arrays\understanding arrays\obj\Debug\understanding arrays.exe
+C:\Users\markp\source\repos\understanding arrays\understanding arrays\obj\Debug\understanding arrays.pdb
